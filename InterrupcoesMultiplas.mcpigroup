@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\Aula19ModoCaptura\MyProject.mcppi
+Project1=InterrupcoesMultiplas.mcppi
+[ActiveProject]
+Index=1
